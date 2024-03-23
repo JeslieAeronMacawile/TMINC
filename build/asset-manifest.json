@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25f95aee.css",
+    "main.js": "/static/js/main.b4a6076c.js",
+    "static/js/592.35db7aca.chunk.js": "/static/js/592.35db7aca.chunk.js",
+    "static/media/TMIncClearBG.png": "/static/media/TMIncClearBG.dc67ea352c3961f77432.png",
+    "static/media/tempBG.jpg": "/static/media/tempBG.0ff96674cb2a789a9405.jpg",
+    "static/media/SlidePic3.jpg": "/static/media/SlidePic3.7f5860e2af55ba4278a9.jpg",
+    "static/media/TMIncLogo.jpg": "/static/media/TMIncLogo.b36914d380334daa85e6.jpg",
+    "static/media/n8Logo.png": "/static/media/n8Logo.f6fcd9cb07f51e433428.png",
+    "static/media/SlidePic1.jpg": "/static/media/SlidePic1.7f752df5e043e8a776a2.jpg",
+    "static/media/banner.png": "/static/media/banner.233a68c030c1043f5ea5.png",
+    "static/media/SlidePic2.jpg": "/static/media/SlidePic2.c226b7f47705b3d34dda.jpg",
+    "static/media/Philosophy.jpg": "/static/media/Philosophy.b51ef148f03eacc3ba77.jpg",
+    "index.html": "/index.html",
+    "main.25f95aee.css.map": "/static/css/main.25f95aee.css.map",
+    "main.b4a6076c.js.map": "/static/js/main.b4a6076c.js.map",
+    "592.35db7aca.chunk.js.map": "/static/js/592.35db7aca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f95aee.css",
+    "static/js/main.b4a6076c.js"
+  ]
+}
